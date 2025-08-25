@@ -34,5 +34,5 @@ Este projeto tem como objetivo ajudar candidatos na preparação para a prova te
 
 ---
 
-## 🗂 Estrutura de Arquivos
+
 
