@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Simulador — DETRAN</title>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+  <header class="barratopo">
+    <a class="voltar" href="index.html">← Voltar</a>
+    <h1>Simulador de Questões</h1>
+  </header>
+
+    <main class="containe">
+    <section class="cartao">
+      <div class="cabecalho-simulado">
+        <div class="cronometro" id="cronometro">45:00</div>
+        <div class="progresso" id="progreco">Questão 1 de 1</div>
+      </div>
+
+      <div id="area-questao" class="area-questao">
+        
+      </div>
+
+      <div class="linha-nav">
+        <button class="botao" id="anterior">Anterior</button>
+        <button class="botao" id="proximo">Próxima</button>
+        <button class="botao perigo" id="finalizar">Finalizar</button>
+      </div>
+    </section>
+
+    <section class="cartao escondido" id="cartao-resultado">
+      <h2>Resultado</h2>
+      <p id="texto-resultado"></p>
+      <button class="botao" id="refazer">Refazer Simulado</button>
+    </section>
+  </main>
+
+  <footer class="rodape">
+  </footer>
+
+  <script type="module" src="js/quiz.js"></script>
+</body>
+</html>

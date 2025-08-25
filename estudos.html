@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Estudos — DETRAN</title>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+  <header class="barratopo">
+    <a class="voltar" href="index.html">← Voltar</a>
+    <h1>Módulo de Estudos</h1>
+  </header>
+
+  <main class="containe">
+    <section class="cartao">
+      <nav class="abas" id="abas"></nav>
+      <article id="conteudo" class="conteudo"></article>
+
+      <div class="anotacoes">        <label class="titulo-anotacao">Anotações</label>        <div class="entrada-tarefa">          <input id="texto-anotacao" type="text" placeholder="Digite a anotação..."/>          <button class="botao" id="adicionar-anotacao">Adicionar anotação</button>        </div>        <ul id="lista-tarefa" class="lista-tarefa"></ul>        <div class="note-actions">          <button class="botao perigo" id="limpar-anotacao">Limpar todas</button>        </div>      </div>
+    </section>
+  </main>
+
+  <footer class="rodape">
+    <small>Todo o conteúdo e anotações ficam salvos <strong>APENAS</strong> no seu navegador.</small>
+  </footer>
+
+  <script type="module" src="js/estudos.js"></script>
+</body>
+</html>
