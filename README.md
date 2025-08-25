@@ -33,8 +33,8 @@ Este projeto tem como objetivo ajudar candidatos na preparação para a prova te
 - Anotações salvas via `localStorage` e recuperadas automaticamente
 
 
-###Screenshot:
-  ![Uploading image.png…]()
+##Screenshot:
+<img width="1854" height="638" alt="image" src="https://github.com/user-attachments/assets/adf0751b-da9a-4a7f-9829-cbf25b4b90f9" />
 
 
 ---
