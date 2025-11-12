@@ -32,6 +32,8 @@ Este projeto tem como objetivo ajudar candidatos na preparação para a prova te
 - Campo de anotações por tema
 - Anotações salvas via `localStorage` e recuperadas automaticamente
 
+  ### Acesse em:
+  https://arley0122.github.io/Simulador-Detran-com-anota-es/
 
 ## Screenshot:
 <img width="1854" height="638" alt="image" src="https://github.com/user-attachments/assets/adf0751b-da9a-4a7f-9829-cbf25b4b90f9" />
