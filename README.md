@@ -1,10 +1,10 @@
-# 🚗 Simulador de Prova DETRAN + Módulo de Estudos
+#  Simulador de Prova DETRAN + Módulo de Estudos
 
 Este projeto tem como objetivo ajudar candidatos na preparação para a prova teórica do DETRAN. Ele oferece um simulador de questões com tempo limite, além de um módulo de estudos com conteúdos organizados por tema e espaço para anotações pessoais salvas localmente no navegador.
 
 ---
 
-## 🧰 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **HTML5** – Estrutura das páginas
 - **CSS3** – Estilização responsiva
@@ -12,16 +12,16 @@ Este projeto tem como objetivo ajudar candidatos na preparação para a prova te
 
 ---
 
-## 📦 Funcionalidades
+##  Funcionalidades
 
-### 📝 Simulador de Questões
+###  Simulador de Questões
 
 - Perguntas de múltipla escolha (A, B, C, D)
 - Timer regressivo de 45 minutos
 - Navegação entre questões
 - Exibição de resultado ao final
 
-### 📚 Módulo de Estudos
+###  Módulo de Estudos
 
 - Conteúdos organizados por tema:
   - Direção Defensiva
